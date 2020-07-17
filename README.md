@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Job
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Viveksunkara662@gmail.com
-- 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...In RelationShip with Console.log()
 -->
