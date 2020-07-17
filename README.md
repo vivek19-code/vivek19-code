@@ -3,7 +3,7 @@ Hi Hope all are good
 Here are some ideas to get you started:
 
  🔭 I Known some Sofware Courses ... Backend:-Python,Webscraping,Selenium,MySQL
-- 🌱 I Also Known for web tools...Frontend:-Html,Css,Javascript,ReactJs
+- 🌱 I also Known for internet tools...Frontend:-Html,Css,Javascript,ReactJs
 - 👯 I’m looking to collaborate on ...Frontend Devloper
 - 🤔 I’m looking for help with ... Job
 - 💬 Ask me about ...Anything
